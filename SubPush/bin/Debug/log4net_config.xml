@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler, log4net" />
+  </configSections>
+  <log4net>
+    <appender name="ReqLogAppender" type="log4net.Appender.RollingFileAppender" >
+      <param name="File" value="Log\reqlog" />
+      <param name="AppendToFile" value="true" />
+      <param name="DatePattern" value="yyyyMMdd\.\l\o\g" />
+      <param name="StaticLogFileName" value="false" />
+      <layout type="log4net.Layout.PatternLayout">
+        <param name="ConversionPattern" value="%date{HH:mm:ss} %message%newline" />
+      </layout>
+    </appender>
+	<appender name="APLogAppender" type="log4net.Appender.RollingFileAppender" >
+      <param name="File" value="Log\aplog" />
+      <param name="AppendToFile" value="true" />
+      <param name="DatePattern" value="yyyyMMdd\.\l\o\g" />
+      <param name="StaticLogFileName" value="false" />
+      <layout type="log4net.Layout.PatternLayout">
+        <param name="ConversionPattern" value="%-5level %date{HH:mm:ss} %message%newline" />
+      </layout>
+    </appender>
+    <root>
+      <level value="INFO" />
+      <!--      <appender-ref ref="RollingLogFileAppender" /> -->
+    </root>
+    <logger name="reqlogger">
+      <level value="INFO"/>
+      <appender-ref ref="ReqLogAppender" />
+    </logger>
+	<logger name="aplogger">
+      <level value="INFO"/>
+      <appender-ref ref="APLogAppender" />
+    </logger>
+  </log4net>
+</configuration>

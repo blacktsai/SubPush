@@ -1,0 +1,15 @@
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\SubPush.exe
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\SubPush.pdb
+D:\MyProject\CSharpProj\SubPush\SubPush\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProject\CSharpProj\SubPush\SubPush\obj\x86\Debug\SubPush.FormSvrMain.resources
+D:\MyProject\CSharpProj\SubPush\SubPush\obj\x86\Debug\SubPush.Properties.Resources.resources
+D:\MyProject\CSharpProj\SubPush\SubPush\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyProject\CSharpProj\SubPush\SubPush\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyProject\CSharpProj\SubPush\SubPush\obj\x86\Debug\SubPush.exe
+D:\MyProject\CSharpProj\SubPush\SubPush\obj\x86\Debug\SubPush.pdb
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\SubPush.exe.config
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\log4net.dll
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\Newtonsoft.Json.dll
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\log4net.xml
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\Newtonsoft.Json.pdb
+D:\MyProject\CSharpProj\SubPush\SubPush\bin\Debug\Newtonsoft.Json.xml

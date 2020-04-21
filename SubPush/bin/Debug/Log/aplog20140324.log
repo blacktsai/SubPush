@@ -1,0 +1,15 @@
+ERROR 15:09:45 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:09:47 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:14:56 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:20:33 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:20:40 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:49:26 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:49:37 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:50:34 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 15:55:40 OnReadData Exception 遠端主機已強制關閉一個現存的連線。
+ERROR 16:09:52 Client Disconnect 127.0.0.1
+ERROR 16:10:40 Client Disconnect 127.0.0.1
+ERROR 16:10:50 Client Disconnect 127.0.0.1
+ERROR 16:10:54 Client Disconnect 127.0.0.1
+ERROR 16:11:11 Client Disconnect 127.0.0.1
+ERROR 16:11:14 Client Disconnect 127.0.0.1

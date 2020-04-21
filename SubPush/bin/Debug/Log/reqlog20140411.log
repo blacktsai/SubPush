@@ -1,0 +1,2 @@
+13:22:11 IP-127.0.0.1 ; FunID-6001 ; MsgID-sub201404020001 ; Req-{ Channel:"Z",ID:"Q120723740",RANGE:"U",SYMBOL:"4175",TYPE:"2",Condition:"1", Value:"13.5",Times:"S",Duration:"W"}
+13:22:11 IP-127.0.0.1 ; FunID-6001 ; MsgID-sub201404020001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"49"}

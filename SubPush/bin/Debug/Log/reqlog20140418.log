@@ -1,0 +1,238 @@
+08:49:52 IP-127.0.0.1 ; FunID-6001 ; MsgID-sub201404020001 ; Req-{ Channel:"Z",ID:"Q120723740",RANGE:"U",SYMBOL:"2885",TYPE:"2",Condition:"1", Value:"10",Times:"S",Duration:"W"}
+08:49:53 IP-127.0.0.1 ; FunID-6001 ; MsgID-sub201404020001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"50"}
+08:56:06 IP-127.0.0.1 ; FunID-6001 ; MsgID-sub201404020001 ; Req-{ Channel:"Z",ID:"Q120723740",RANGE:"U",SYMBOL:"2885",TYPE:"2",Condition:"1", Value:"10",Times:"S",Duration:"W"}
+08:56:18 IP-127.0.0.1 ; FunID-6001 ; MsgID-sub201404020001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"51"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000004 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000005 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000006 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000007 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000008 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:25 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000003 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000003 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"52"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000009 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000006 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"53"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000010 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000004 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"54"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"55"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000005 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"56"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000008 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"57"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000007 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"58"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"59"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000010 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"60"}
+09:04:26 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418085710_0000009 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"61"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000003 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000004 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000007 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000008 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000005 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000006 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"62"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000009 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000003 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"63"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000010 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"64"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000007 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"65"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000008 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"66"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000005 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"67"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000004 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"68"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000010 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"70"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000009 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"69"}
+09:11:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000006 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"71"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000011 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000011 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"72"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000012 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000013 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000016 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000015 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000014 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000012 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"73"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000016 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"75"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000015 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"74"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000013 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"76"}
+09:13:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000014 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"77"}
+09:13:03 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000017 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:03 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000017 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"78"}
+09:13:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000018 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000018 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"79"}
+09:13:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000019 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000019 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"80"}
+09:13:05 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000020 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:13:05 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091043_0000020 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"81"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000004 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000005 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000006 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000008 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000007 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000003 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000009 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"82"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000010 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000006 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"83"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000007 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"84"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000005 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"85"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000008 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"86"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000004 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"87"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"88"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000003 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"89"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000010 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"90"}
+09:21:51 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000009 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"91"}
+09:31:41 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000011 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:31:42 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000011 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"92"}
+09:32:24 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000012 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:32:24 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000012 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"93"}
+09:32:45 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000013 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:32:45 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000013 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"94"}
+09:33:21 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000014 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:33:21 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000014 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"95"}
+09:33:40 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000015 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:33:40 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000015 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"96"}
+09:33:56 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000016 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:33:56 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000016 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"97"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000017 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000019 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000020 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000021 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000022 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000023 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000024 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000018 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000017 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"98"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000025 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000020 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"99"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000026 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000021 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"100"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000019 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"101"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000023 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"102"}
+09:34:09 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000024 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"103"}
+09:34:10 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000018 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"104"}
+09:34:10 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000025 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"105"}
+09:34:10 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000026 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"106"}
+09:34:10 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000022 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"107"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000027 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000028 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000029 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000031 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000030 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000032 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000033 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000034 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000027 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"108"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000035 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000030 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"111"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000036 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000029 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"109"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000028 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"110"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000033 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"114"}
+09:37:16 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000035 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"115"}
+09:37:17 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000036 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"116"}
+09:37:17 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000032 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"112"}
+09:37:17 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000034 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"113"}
+09:37:17 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000031 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"117"}
+09:49:59 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000038 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000039 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000040 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000041 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000043 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000044 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000038 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"118"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000045 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000046 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000042 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000040 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"119"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000041 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"120"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000039 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"121"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000045 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"122"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000044 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"123"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000046 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"124"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000043 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"125"}
+09:50:00 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000042 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"126"}
+09:50:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000047 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+09:50:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418091730_0000047 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"127"}
+11:10:10 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418110947_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:10:10 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418110947_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"128"}
+11:10:27 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418110947_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:10:27 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418110947_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"129"}
+11:13:32 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418111330_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:13:32 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418111330_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"130"}
+11:23:47 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418112346_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:23:47 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418112346_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"131"}
+11:27:34 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418112732_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:27:34 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418112732_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"132"}
+11:28:37 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418112732_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:28:37 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418112732_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"133"}
+11:40:44 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:40:45 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"134"}
+11:41:50 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:41:50 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"135"}
+11:41:50 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000003 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:41:50 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000003 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"136"}
+11:41:57 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000004 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:41:57 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000004 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"137"}
+11:42:14 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000005 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:42:14 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000005 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"138"}
+11:42:41 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000006 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:42:41 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114043_0000006 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"139"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"140"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000003 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"141"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000004 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000004 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"142"}
+11:45:06 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000003 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"143"}
+11:45:14 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000005 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:45:14 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000005 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"144"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000006 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000006 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"145"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000007 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000007 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"146"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000008 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000008 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"147"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000009 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000009 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"148"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000010 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000010 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"149"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000011 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000011 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"150"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000012 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000012 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"151"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000013 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000013 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"152"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000014 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000014 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"153"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000015 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:48:22 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418114504_0000015 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"154"}
+11:53:03 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418115259_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:53:03 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418115259_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"155"}
+11:54:35 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418115427_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:54:35 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418115427_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"156"}
+11:56:53 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418115651_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+11:56:53 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418115651_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"157"}
+12:07:39 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418120738_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+12:07:39 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418120738_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"158"}
+12:09:21 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418120738_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+12:09:21 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418120738_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"159"}
+12:09:42 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418120940_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+12:09:42 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418120940_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"160"}
+12:10:28 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418121026_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+12:10:28 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418121026_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"161"}
+12:12:43 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418121242_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+12:12:43 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418121242_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"162"}
+12:13:32 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418121330_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+12:13:32 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418121330_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"163"}
+13:25:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418132459_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+13:25:02 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418132459_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"164"}
+13:31:08 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418133106_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+13:31:08 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418133106_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"165"}
+13:32:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418133106_0000002 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+13:32:04 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418133106_0000002 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"166"}
+13:33:44 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418133342_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+13:33:44 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418133342_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"167"}
+13:40:45 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418134039_0000001 ; Req-{"Channel": "Z","ID": "F126644133","RANGE": "U","SYMBOL": "2885","TYPE": "0","Condition": "1","Value": "110","Times": "S","Duration": "D"}
+13:40:45 IP-10.93.9.86 ; FunID-6001 ; MsgID-010418134039_0000001 ; Response-{"ResultCode":"0000","ResultMessage":"","NotifyMsgID":"168"}
